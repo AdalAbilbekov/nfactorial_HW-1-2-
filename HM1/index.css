@@ -1,0 +1,220 @@
+/* Row-1 */
+.row_1{
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap-reverse;
+}
+
+.red_1{
+    width: 50%;
+    background-color: red;
+}
+
+.blue_1{
+    width: 50%;
+    background-color: blue;
+}
+
+/* Row-2 */
+.row_2{
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.green_2{
+    background-color: green;
+    width: 90%;
+}
+
+.blue_2{
+    background-color: blue;
+    width: 10%;
+}
+/* Row-3 */
+.row_3{
+    height: 40px;
+    display: flex;
+}
+
+.red_3{
+    background-color: red;
+    width: 10%;
+}
+
+.green_3{
+    background-color: green;
+    width: 80%;
+}
+
+.blue_3{
+    background-color: blue;
+    width: 10%;
+}
+
+/* Row-4 */
+.row_4{
+    display: flex;
+    flex-direction: row;
+}
+
+.red_4{
+    display: flex;
+    justify-content: flex-start;
+    background-color: red;
+    height: 40px;
+    width: 90%;
+}
+
+.blue_4{
+    display: flex;
+    justify-content: flex-end;
+    background-color: blue;
+    height: 40px;
+    width: 10%;
+}
+
+/* Row-5 */
+.green_5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    height: 40px;
+    width: 100%;
+}
+
+.red_5{
+    background-color: red;
+    height: 20px;
+    width: 20px;
+}
+
+/* Row-6 */
+.red_6{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    height: 40px;
+    width: 100%;
+}
+
+.blue_6{
+    background-color: blue;
+    height: 40px;
+    width: 10%;
+}
+
+/* Row-7 */
+
+.row_7{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.red_7{
+    background-color: red;
+    height: 40px;
+    width: 10%;
+}
+
+.blue_7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    height: 40px;
+    width: 90%;
+}
+
+.green_7{
+    background-color: green;
+    height: 10px;
+    width: 100%;
+}
+
+/* Row 8 */
+.row_8{
+    display: flex;
+    flex-direction: row;
+}
+
+.green_8{
+    display: flex;
+    justify-content: space-between;
+    background-color: green;
+    height: 40px;
+    width: 100%;
+}
+
+.yellow_8_1{
+    background-color: yellow;
+    height: 40px;
+    width: 5%;
+}
+
+.yellow_8_2{
+    background-color: yellow;
+    height: 40px;
+    width: 5%;
+}
+
+.yellow_8_3{
+    background-color: yellow;
+    height: 40px;
+    width: 5%;
+}
+
+.yellow_8_4{
+    background-color: yellow;
+    height: 40px;
+    width: 5%;
+}
+
+.yellow_8_5{
+    background-color: yellow;
+    height: 40px;
+    width: 5%;
+}
+
+/* Row-9 */
+
+.row_9{
+    display: flex;
+    flex-direction: row;
+}
+
+.yellow_9{
+    display: flex;
+    justify-content: space-around;
+    background-color: yellow;
+    height: 40px;
+    width: 100%;
+}
+
+.green_9_1{
+    background-color: green;
+    height: 40px;
+    width: 2%;
+}
+
+.green_9_2{
+    background-color: green;
+    height: 40px;
+    width: 2%;
+}
+
+.green_9_3{
+    background-color: green;
+    height: 40px;
+    width: 2%;
+}
+
+.green_9_4{
+    background-color: green;
+    height: 40px;
+    width: 2%;
+}
